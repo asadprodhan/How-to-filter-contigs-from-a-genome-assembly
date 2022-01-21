@@ -1,1 +1,1 @@
-# How-to-filter-contigs-from-a-genome-assembly
+# How to filter out contigs from a genome assembly
