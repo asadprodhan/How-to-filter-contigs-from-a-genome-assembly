@@ -10,8 +10,12 @@ A genome assembly contains both long and short contigs. These contigs can be vis
 <br />
  ![alt text](https://github.com/asadprodhan/How-to-filter-contigs-from-a-genome-assembly/blob/main/Genome_Assembly_in_Bandage.png)
 <br />
+
+Fig 1. A genome assembly graph visualised in Bandage. The values accompanied by ‘x’ indicate the sequencing depth; numbers followed by ‘bp’ indicate length in base pairs (bp); colours are random.
 <br />
 <br />
+
+
 However, if any contigs need to be filtered out from the assembly file (fasta), they can be deleted manually or automated using the command line tools. Some of the command line options are presented here:
 <br />
 <br />
